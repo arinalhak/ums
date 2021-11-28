@@ -75,10 +75,10 @@ $query_builder = TRUE;
 
 $db['default'] = array(
 	'dsn'	=> '',
-	'hostname' => 'myhostname',
-	'username' => 'myusername',
-	'password' => 'mysecretpassword',
-	'database' => 'mydatabasename',
+	'hostname' => 'mydb',
+	'username' => 'arinal',
+	'password' => 'arin4l',
+	'database' => 'usermanagementdb',
 	'dbdriver' => 'mysqli',
 	'dbprefix' => '',
 	'pconnect' => FALSE,
