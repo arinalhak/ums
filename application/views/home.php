@@ -29,7 +29,7 @@
           </ol>
 
           <!-- Page Content -->
-          <h1>User Management System in CodeIgniter Ada penambahan baru</h1>
+          <h1>User Management System in CodeIgniter versi 2</h1>
           <hr>
 <div class="row">
 <div class="col-xl-3 col-sm-6 mb-3">
