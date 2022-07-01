@@ -9,7 +9,7 @@
 <?php echo link_tag('assests/vendor/fontawesome-free/css/all.min.css'); ?>
 <!-- Page level plugin CSS-->
 <?php echo link_tag('assests/vendor/datatables/dataTables.bootstrap4.css'); ?>
-<!-- Custom styles for this template-->
+<!-- Custom styles for this template catatan tertentu-->
 <?php echo link_tag('assests/css/sb-admin.css'); ?>
 
   </head>
